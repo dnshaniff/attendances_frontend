@@ -3,7 +3,6 @@
 
 ## ✅ **README.md (Frontend Repository)**
 
-```markdown
 # Attendance Management - Frontend (jQuery + Bootstrap)
 
 Tugas frontend untuk menampilkan sistem absensi dari backend Laravel.
