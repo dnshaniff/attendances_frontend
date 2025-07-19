@@ -41,6 +41,6 @@ Tugas frontend untuk menampilkan sistem absensi dari backend Laravel.
 
 ## 📦 Instalasi
 
-- git clone [https://github.com/username/frontend-attendance.git](https://github.com/dnshaniff/attendances_frontend.git)
+- git clone https://github.com/dnshaniff/attendances_frontend.git
 - cd attendances_frontend
 - php artisan serve
